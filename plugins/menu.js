@@ -32,7 +32,7 @@ const defaultMenu = {
   body: '❍➯ %cmd %islimit %isPremium',
   footer: '╰───┤❖\n',
   after: `
-  ⬣━〔Powered By lissa❤️〕━⬣
+  ⬣━〔Powered By FERDI〕━⬣
 `,
 }
 let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
@@ -243,12 +243,12 @@ _____•••••••••
                                     "rowId": ".donasi"
                                 }, {
                                     "title":      "|🖼️| ❯╾Profile╼-",
-                                    "description": "indentitas kamu di ASTRO-BOT.",
+                                    "description": "indentitas kamu di WarDBOTZ.",
                                     "rowId": ".profile"
                                 }, {
   "title":  "|👩‍💻| ❯╾jadibot╼-",
-                                    "description": "numpang bot sementara di ASTRO-BOT",
-                                    "rowId": ".jadibot"
+                                    "description": "numpang bot sementara di WarDBOTZ",
+                                    "rowId": ".jadibot PREMIUM"
                                 }, {
   "title":  "|🙇‍♂️| ❯╾group╼-",
                                     "description": "bergabung di grub bersama ASTRO-BOT",
@@ -270,11 +270,11 @@ _____•••••••••
                                     "rowId": ".? quran"
                                 }, {
  "title": "「1」",
-                                    "description": "Menu doaharian",
+                                    "description": "Menu doaharian DIGABUNG SM YG DIATS 👆",
                                     "rowId": ".? doaharian"
                                 }, {
                                 	"title": "「 2 」",
-                                    "description": "Menu Tentang Kristen",
+                                    "description": "Menu Tentang kosong aja ",
                                     "rowId": ".? cristian"
                                 }, {
                                     "title": "「 3 」",
@@ -310,7 +310,7 @@ _____•••••••••
                                     "rowId": ".? stiker"
                                 }, { 
                                     "title": "「 11 」",
-                                    "description": "Menurut Kerang ajaib....",
+                                    "description": "Menu Kerang ajaib....",
                                     "rowId": ".? kerangajaib"
                                 }, { 
                                     "title": "「 12 」",
